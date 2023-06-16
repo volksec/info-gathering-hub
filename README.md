@@ -1,4 +1,4 @@
-# Resources for Information Gathering 2.0 [Under Construction 🚧]
+# [Under Construction 🚧]
 
 
 # Threat Intelligence
