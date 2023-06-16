@@ -1,5 +1,5 @@
-# Search Engines for Pentesters
-Resources that can assist in gathering information. [Under construction 🚧]
+# Resources for Information Gathering 2.0 [Under Construction 🚧]
+
 
 # Threat Intelligence
 - [Binary Edge](https://app.binaryedge.io/) 
