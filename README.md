@@ -1,31 +1,38 @@
-#SEARCH ENGINES FOR PENTESTERS
+# Search Engines for Pentesters
+Resources that can assist in gathering information.
 
-This repository is a compilation of links that can help cybersecurity pentesters or academics in their searches, be they recognition, footprint, fingerprint or not.
+# Threat Intelligence
+- [Binary Edge](https://app.binaryedge.io/) 
+- [Grey Noise](https://viz.greynoise.io/) 
+- [Fofa](https://www.rangeforce.com/) 
+- [Zoom Eye](https://www.zoomeye.org/) 
+- [Leakix](https://leakix.net/) 
+- [URLScan](https://urlscan.io/) 
+- [SOCRadar](https://socradar.io/) 
+- [Pulse Dive](https://pulsedive.com/)
 
-Don't hesitate if you want to contribute to this repository.
+# Attack Surface
+- [Netlas](https://app.netlas.io/) 
+- [Full Hunt](https://fullhunt.io/) 
 
-The original source is unknown.
+# Codes Search
+- [Search Code](https://searchcode.com/) 
+- [PublicWWW](https://publicwww.com/) 
+- [Grep](https://grep.app/) 
 
-1. shodan.io (server)
-2. wigle.net (wifi Networks)
-3. grep.app (codes search)
-4. app.binaryedge.io (threat intelligence)
-5. onyphe.io (server)
-6. viz.greynoise.io (threat intelligence)
-7. censys.io (server)
-8. hunter.io (email Addresses)
-9. fofa.io  (threat intelligence)
-10. zoomeye.org (threat intelligence)
-11. leakix.net (threat intelligence)
-12. intelx.io (OSINT)
-13. app.netlas.io (attack Surface)
-14. searchcode.com (codes search)
-15. urlscan.io (threat intelligence)
-16. publicwww.com (codes search)
-17. fullhunt.io (attack Surface)
-18. socradar.io (threat intelligence)
-19. binaryedge.io (attack Surface)
-20. ivre.rocks (server)
-21. crt.sh (certificate search)
-22. vulners.com (vulnerabilities)
-23. pulsedive.com (threat intelligence)
+# Certificate Search
+- [CTSearch](ctsearch.entrust.com) 
+
+# Server
+- [Shodan](https://www.shodan.io/) 
+- [IVRE](https://ivre.rocks/) 
+
+# Wifi Networks
+- [Wigle](https://wigle.net/)
+
+# Email Addresses
+- [Hunter](https://hunter.io/)
+
+# Vulnerabilities
+- [Vulners](https://vulners.com/)
+
